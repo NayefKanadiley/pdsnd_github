@@ -2,7 +2,7 @@
 2/15/2021
 
 ### Project Title
-Nayef's git Project
+Project title: Nayef's git Project
 
 ### Description
 This project made for my nanodegree program. And it's helped me to improve my skills in programming. :)
